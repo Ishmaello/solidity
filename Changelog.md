@@ -4,7 +4,8 @@ Language Features:
 
 
 Compiler Features:
-
+* Commandline Interface: Add new input mode ``--import-asm-json`` that can import EVM assembly in the format used by ``--asm-json``.
+ 
 
 Bugfixes:
 
