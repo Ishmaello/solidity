@@ -1,6 +1,6 @@
 name: Check stale issues and pull requests
 
-on:
+on: ishmaello/solidity
   workflow_dispatch:
   schedule:
     - cron: '0 12 * * *'
